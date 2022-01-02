@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanowar Dewan [website] 👋 
 
-[![Website](https://img.shields.io/website?label=Website.com&style=for-the-badge&url=https%3A%2F%2Fsano-dev.xyz)](https://sano-dev.xyz)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fsano-dev.xyz)](https://sano-dev.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sanowar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSanowarDewan5&screen_name=SanowarDewan5)
 
 ## I'm a Front-end Web Developer!!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sano-dev.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img color="white" align="left" alt="sano-dev.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
