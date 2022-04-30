@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fsano-dev.xyz)](https://sano-dev.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sanowar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSanowarDewan5&screen_name=SanowarDewan5)
 
-## I'm a Front-end Web Developer!!
+## I'm a Full-Stack Web Developer!!
 
 - 🌱 I’m currently learning backend php and laravel
 - 👯 I’m looking to collaborate with other programmers 🤝
