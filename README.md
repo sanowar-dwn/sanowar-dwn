@@ -5,9 +5,9 @@
 
 ## I'm a Full-Stack Web Developer!!
 
-- 🌱 I’m currently learning backend php and laravel
+- 🌱 I’m currently learning BlockChain Development
 - 👯 I’m looking to collaborate with other programmers 🤝
-- 🥅 2022 Goals: Complete laravel and learn javascript
+- 🥅 2022 Goals: Complete laravel and learn BlockChain Development
 - ⚡ Fun fact: I love working out 🏋️ and parkour
 
 ### Connect with me:
